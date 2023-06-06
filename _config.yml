@@ -1,6 +1,6 @@
 # Site settings
-domain: "igortodorovskiibm.github.io"
-url: "https://igortodorovskibm.github.io/blog/"
+url: "https://igortodorovskibm.github.io" # your host, for absolute URL
+baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
