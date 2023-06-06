@@ -1,7 +1,7 @@
 # Site settings
-domain: IgorTodorovskiIBM.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://IgorTodorovskiIBM.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /blog/
+domain: "igortodorovskiibm.github.io"
+url: "https://igortodorovskibm.github.io"
+baseurl: "/blog/"
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
