@@ -1,7 +1,6 @@
 # Site settings
 domain: "igortodorovskiibm.github.io"
-url: "https://igortodorovskibm.github.io"
-baseurl: "/blog/"
+url: "https://igortodorovskibm.github.io/blog/"
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
