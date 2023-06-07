@@ -1,11 +1,11 @@
 # Site settings
 url: "https://igortodorovskibm.github.io" # your host, for absolute URL
 baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
-title: "Mainframe Demystified: Igor Todorovski's Journey into z/OS"
-SEOTitle: "Mainframe Demystified: Igor Todorovski's Journey into z/OS"
-header-img: img/home-bg.jpg
+title: "Mainframe Demystified"
+SEOTitle: "Mainframe Demystified"
+header-img: img/home-bg.png
 email: igor.todorovski@gmail.com
-description: "Let's dive into the world of z/OS together"
+description: "Igor Todorovski's Journey into z/OS"
 keyword: "Computers, Tech, Compilers, z/OS, Open Source"
 
 # Publish posts or collection documents with a future date.
