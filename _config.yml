@@ -1,12 +1,12 @@
 # Site settings
 url: "https://igortodorovskibm.github.io" # your host, for absolute URL
 baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
-title: Igor Todorovski Blog
-SEOTitle: Igor Todorovski Blog
+title: "Mainframe Demystified: Igor Todorovski's Journey into z/OS"
+SEOTitle: "Mainframe Demystified: Igor Todorovski's Journey into z/OS"
 header-img: img/home-bg.jpg
 email: igor.todorovski@gmail.com
-description: "Let's dive into the world of IT together"
-keyword: "Computers, IT, z/OS"
+description: "Let's dive into the world of z/OS together"
+keyword: "Computers, Tech, Compilers, z/OS, Open Source"
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -14,7 +14,6 @@ future: true
 # SNS settings
 RSS: false
 github_username: IgorTodorovskiIBM
-  #twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -72,8 +71,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Igor Todorovski - z/OS Open Source Lead at IBM"
+sidebar-avatar: https://github.com/IgorTodorovskiIBM.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -89,12 +88,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "Mike Fulton's Blog", href: "https://makingdeveloperslivesbetter.wordpress.com/" },
   ]
