@@ -1,8 +1,8 @@
 # Site settings
 url: "https://igortodorovskibm.github.io" # your host, for absolute URL
 baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
-title: "Mainframe Demystified"
-SEOTitle: "Mainframe Demystified"
+title: "The Mainframe Demystified"
+SEOTitle: "The Mainframe Demystified"
 header-img: img/home-bg.png
 email: igor.todorovski@gmail.com
 description: "Igor Todorovski's Journey into z/OS"

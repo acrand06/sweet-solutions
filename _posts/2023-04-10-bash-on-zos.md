@@ -12,7 +12,7 @@ tags:
 
 > Bash on z/OS
 
-Bla bla bla
+Find out why Bash on z/OS is the killer app!
 
 * bla bla
 
