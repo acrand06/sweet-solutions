@@ -46,3 +46,6 @@ I decided to post my question about upstreaming to https://lists.gnu.org/archive
 ### Step 3: Clean up the patches
 I continued engaging with Chet via direct email and used his guidance to clean up the patches which I had placed 
 
+### Step 4: See your changes get upstreamed
+![image](/img/in-post/post-bash/patch1.png)
+![image](/img/in-post/post-bash/patch2.png)
