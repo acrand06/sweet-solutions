@@ -48,7 +48,7 @@ As seen here, netstat is an external link:
 ```
 erwxrwxrwx   1 ROOT     1              8 Nov 11  2021 ping -> OPING
 ```
-We addressed this issue in this [PR(]https://github.com/ZOSOpenTools/bashport/pull/53)
+We addressed this issue in this [PR](https://github.com/ZOSOpenTools/bashport/pull/53)
 
 ```bash
 $ ping www.ibm.com
@@ -56,9 +56,9 @@ CS V2R5: Pinging host www.ibm.com (104.70.245.61)
 Ping #1 response took 0.018 seconds. (18.276 milliseconds)
 ```
 
-### Fixing process substition in z/OS
+### Fixing process substitution in z/OS
 Another challenge we encountered was related to process substitution on z/OS. 
-Process substitution in useful feature that allows you to use the output of a command or a process as if it were a file. It provides a way to pass the output of a command as an input to another command or perform operations that require a file input.
+Process substitution is a useful feature that allows you to use the output of a command or a process as if it were a file. It provides a way to pass the output of a command as an input to another command or perform operations that require a file input.
 
 Unfortuantely, this was broken in our initial port as seen here:
 
