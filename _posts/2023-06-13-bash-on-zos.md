@@ -134,6 +134,9 @@ The culmination of the upstreaming journey was reached when the patches were suc
 ![image](/blog/img/in-post/post-bash/patch2.png)
 Hooray!
 
+# What's remaining?
+* Although all of the source changes to enable Bash on z/OS have been upstreamed, the test case changes have yet to be upstreamed. I'm currently working with Chet on a solution that will not impact the other platforms.
+
 # Special Thanks
 I would like to thank Mike Fulton for helping with the Bash on z/OS porting effort.
 I would also like to thank Gary Grossi for identifying several key issues with Bash on z/OS.
