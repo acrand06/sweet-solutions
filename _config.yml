@@ -1,11 +1,11 @@
 # Site settings
-url: "https://igortodorovskibm.github.io" # your host, for absolute URL
-baseurl: "/blog" # for example, '/blog' if your blog hosted on 'host/blog'
-title: "The Mainframe Demystified"
-SEOTitle: "The Mainframe Demystified"
+url: "https://acrand06.github.io" # your host, for absolute URL
+baseurl: "/sweet-solutions" # for example, '/blog' if your blog hosted on 'host/blog'
+title: "Sweet Solutions for z/OS Modernization "
+SEOTitle: "Solutions for z/OS Modernization"
 header-img: img/home-bg.png
-email: igor.todorovski@gmail.com
-description: "Igor Todorovski's Journey into z/OS"
+email: acrand@us.ibm.com
+description: "Anthony's solutions for moderniztionation journey for z/OS"
 keyword: "Computers, Tech, Compilers, z/OS, Open Source"
 
 # Publish posts or collection documents with a future date.
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: IgorTodorovskiIBM
+github_username: acrand06
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -56,7 +56,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: mainframe-demystified
+disqus_username: sweet-solutions
 
 # Netease settings
 netease_comment: false
@@ -71,8 +71,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Igor Todorovski - z/OS Open Source Lead at IBM"
-sidebar-avatar: https://github.com/IgorTodorovskiIBM.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Anthony Randolph - Solutions Enablment Lead for IBM Z and Cloud Modernization Stack"
+sidebar-avatar: https://github.com/acrand06.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -89,4 +89,7 @@ page-mathjax: false
 friends:
   [
     { title: "Mike Fulton's Blog", href: "https://makingdeveloperslivesbetter.wordpress.com/" },
+    { title: "Igor Todorovski's Blog", href: "https://igortodorovskiibm.github.io/blog/" },
+    { title: "Latrell Freemans's Blog", href: "https://freemanlatrell.github.io/blog/" }
   ]
+
