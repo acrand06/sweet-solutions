@@ -169,5 +169,35 @@ layout: default
             margin-top : -0.1em;
         }
     }
+    /* Hide the default twisty */
+    summary::-webkit-details-marker {
+        display: none;
+    }
+
+    /* Add a custom indicator for top-level details */
+    details > summary::before {
+        content: "►"; /* Custom indicator for top-level details */
+        display: inline-block;
+        margin-right: 5px; /* Adjust spacing as needed */
+    }
+
+    /* Style the indicator for the open state of top-level details */
+    details[open] > summary::before {
+        content: "▼"; /* Custom indicator for open state of top-level details */
+    }
+
+    /* Add a different custom indicator for nested details */
+    details > details > summary::before {
+        content: ">"; /* Custom indicator for nested details */
+        display: inline-block;
+        margin-right: 5px; /* Adjust spacing as needed */
+    }
+
+    /* Style the indicator for the open state of nested details */
+    details > details[open] > summary::before {
+        content: "v"; /* Custom indicator for open state of nested details */
+    
+    }
 </style>
+
 {% endif %}
